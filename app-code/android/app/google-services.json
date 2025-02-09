@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574500160578",
+    "project_id": "my-project-cde99",
+    "storage_bucket": "my-project-cde99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574500160578:android:798cec1d28f115409719db",
+        "android_client_info": {
+          "package_name": "com.BharatiyaCanvas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsI--hFl4WRsBdJ8W1k_qeTCcxcyvSnhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
